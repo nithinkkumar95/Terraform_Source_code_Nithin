@@ -14,7 +14,7 @@ variable "instance_type" {
   default     = "t2.micro"
 }
 
-variable "subnet_cidr" {
+variable "subnet_cidr_block" {
   description = "CIDR block for the subnet"
   type        = string
 }
