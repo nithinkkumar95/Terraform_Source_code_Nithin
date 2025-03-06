@@ -1,5 +1,0 @@
-aws_region      = "us-west-2"
-vpc_cidr_block  = "14.0.0.0/16"
-ami_id          = "ami-00c257e12d6828491"
-instance_type   = "t2.micro"
-subnet_cidr     = "14.0.1.0/24"
